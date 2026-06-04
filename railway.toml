@@ -1,0 +1,2 @@
+[deploy]
+startCommand = "python mlbb_ban_checker_bot.py"
